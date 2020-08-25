@@ -19,3 +19,13 @@ The main impact for our project has been to develop a solar operated digging mac
     • Solar power operated
 
     • Automated with remote
+    
+Multipurpose agriculture robot can perform the following 
+
+functions and advantages-: 
+
+• Robot vehicle can dig the soil, put the seeds, spray water as well as it can cut the grains/grass. It will reduce human effort in agricultural field. 
+
+• To perform all 4 operations at single time, hence increases production and saves time. Farmers can operate this robot through remote by sitting at a place and can easily operate. 
+
+• The usage to solar can be utilized for battery charging. As robot works in field, the rays of sun can be used for solar power generation (increases power output). Robot can move automatically in field. 
